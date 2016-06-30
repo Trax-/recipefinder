@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="391beca5-b849-4dad-bc89-6a1d73cffd00" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/recipefinder.iml" afterPath="$PROJECT_DIR$/.idea/recipefinder.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Procfile" afterPath="$PROJECT_DIR$/Procfile" />
     </list>
     <ignored path="recipefinder.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -367,12 +363,12 @@
       <workItem from="1467287503438" duration="3420000" />
       <workItem from="1467290949195" duration="34000" />
       <workItem from="1467290990104" duration="7498000" />
-      <workItem from="1467299543737" duration="1496000" />
+      <workItem from="1467299543737" duration="2550000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12448000" />
+    <option name="totallyTimeSpent" value="13502000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1923" y="0" width="1914" height="1039" extended-state="0" />
